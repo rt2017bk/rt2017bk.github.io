@@ -1,0 +1,14 @@
+body{
+    background: hsl(185, 75%, 39%);
+    font-family: Kumbh Sans;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.targeta{
+    
+    height: 367px;
+    width: 352px;
+    border: 1px solid black;
+    border-radius: 12px;
+}
