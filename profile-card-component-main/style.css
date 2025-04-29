@@ -97,4 +97,18 @@ p{
     4px solid white;
 }
 
+.img_top{
+    position: absolute;
+    top: -556px;
+    left: calc(50vw - 978px - 30px);
+    z-index: -1;
+}
+
+.img_bot{
+    position: absolute;
+    top: 333px;
+    left: calc(50vw - 50px);
+    z-index: -1;
+}
+
 
